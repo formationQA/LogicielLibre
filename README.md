@@ -25,7 +25,7 @@ Dans un terminal exécutez ces commandes :
 Importer le projet : 
 
 ```bash 
-git clone https://github.com/formationQA/Pr-dictionPrixDeVoiture.git
+git clone https://github.com/formationQA/Pr-dictionPrixDeVoiture.git](https://github.com/formationQA/LogicielLibre.git
 cd /TAL/src
 python3 -m venv .venv
 source .venv/bin/activate
