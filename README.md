@@ -25,8 +25,9 @@ Dans un terminal exécutez ces commandes :
 Importer le projet : 
 
 ```bash 
-git clone https://github.com/formationQA/Pr-dictionPrixDeVoiture.git](https://github.com/formationQA/LogicielLibre.git
-cd /TAL/src
+git clone https://github.com/formationQA/LogicielLibre.git 
+cd LogicielLibre
+
 python3 -m venv .venv
 source .venv/bin/activate
 Vérifier la base de données et importer les tables :
