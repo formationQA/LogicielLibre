@@ -136,5 +136,5 @@ if st.button("Estimer le prix de votre voiture", use_container_width=True):
             st.error(f"Une erreur inattendue s'est produite lors de la prédiction : {e}")
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #888; font-size: 0.9em;'>Développé avec ❤️ et Streamlit</p>",
+st.markdown("<p style='text-align: center; color: #888; font-size: 0.9em;'>Développé par SADOUK Mokrane avec Streamlit</p>",
             unsafe_allow_html=True)
